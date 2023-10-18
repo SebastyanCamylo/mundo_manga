@@ -1,7 +1,7 @@
 creado con vite
 ingresa aqui para ver el proyecto
 
-*deploy
+* deploy
 <a href="https://mundo-manga.onrender.com">ingresa aca</a>
 
 desarrolladores
