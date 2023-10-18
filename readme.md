@@ -10,12 +10,15 @@ desarrolladores
  * <a href="https://github.com/felipe-pm">Felipe</a>;
  * <a href="https://github.com/SebastyanCamylo">Sebastian</a>;
 
-dependencias
-    * axios
-    * react
-    * react-dom
-    * react-hot-toast
-    * react-router-dom
-    * react-toastify
-    * react-use
-    * toast
+ * dependencias
+    
+  
+    *  Dependencias utilizadas
+* npm axios
+* npm react
+* npm react-dom
+* npm react-hot-toast
+* npm react-router-dom
+* npm react-toastify
+* npm react-use
+* npm toast
